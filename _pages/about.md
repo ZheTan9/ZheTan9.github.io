@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "檀哲（Zhe Tan）"
+title: "个人简介"
 author_profile: true
 redirect_from: 
   - /about/
