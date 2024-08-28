@@ -32,3 +32,18 @@ redirect_from:
 欢迎对博弈论应用、成瘾行为、禁毒数据挖掘有兴趣的同学联系，学生有机会获得厦门大学、中国科学技术大学等高校的合作和深造。
 
 联系方式：tanzhe@fjpsc.edu.cn
+
+主要论文成果
+------
+[1]檀哲,沈燕梅,李富声,曹惠真.考虑地方政府部门协同和居民信息隐私关注的智慧社区建设演化博弈分析[J].运筹与管理, 2024, 33(04), 92-98.（国家自然科学基金管理科学部A级重要期刊，北核，CSCD，CSSCI扩展）
+[2]檀哲,陈诺,等.敏捷治理驱动下治安防控体系变革——以福州市公安局仓山分局的经验为分析基础[J]. 福建警察学院学报,2024, 38(03), 56-64.
+[3]缪朝炜,上官莉莉,许舒婷,檀哲,朱荣景.碳税政策下考虑双寡头竞争的再制造决策研究[J/OL].管理工程学报,1-14[2024-08-28].https://doi.org/10.13587/j.cnki.jieem.2024.06.014.（国家自然科学基金管理科学部A级重要期刊，北核，CSCD，CSSCI）
+[4]檀哲,董昌其,刘天哲,等. 委托代理视角下的智慧社区信息采集博弈及奖惩机制分析[R].2023年中国优选法统筹法与经济数学研究会高等教育管理分会学术论坛,2023.（大会优秀论文）
+[5]Yong LI, Liyun OU, Na LI, Zhe TAN. Differential Triple Coils for Rail-bottom Flaw Detection Using Single-cycle Demodulation[J]. Sensors and Materials, 2023, 35(8): 2831-2843.（SCI）
+[6]檀哲,缪朝炜,许舒婷,等.统一碳税和差异化碳税下的再制造绩效评价[J].系统工程学报,2021,36(1):102-119.（国家自然科学基金管理科学部A级重要期刊，北核，CSCD）
+[7]许舒婷,缪朝炜,檀哲*,等.基于组合算法的电子产品回收预测系统研究[J].管理工程学报,2020,34(1):147-153.（通讯作者，福州国家自然科学基金管理科学部A级重要期刊，北核，CSCD，CSSCI）
+[8]许舒婷,缪朝炜,檀哲*,等.碳税制度下企业产品升级及信息披露策略研究[J].管理工程学报,2020,34(2):224-230.（通讯作者，国家自然科学基金管理科学部A级重要期刊，北核，CSCD，CSSCI）
+[9]许舒婷,檀哲,卢晓莉,等.基于数据驱动的电子产品回收量预测研究[J].厦门大学学报(自然科学版),2017,56(5):729-733.（北核，CSCD）
+[10]Shuting XU, Lili SHANGGUAN, Zhe TAN, et al. Decision Analysis of Government and Manufacturer under Green Loan Policy[C]//2018 15th International Conference on Service Systems and Service Management. Hangzhou, China: IEEE. DOI: 10.1109/ICSSSM.2018.8465021.（EI）
+[11]Shuting XU, Lili SHANGGUAN, Zhe TAN, et al. Optimal pricing decisions for closed-loop supply chain with different disposal responsibilities[C]//2017 14th International Conference on Service Systems and Service Management. Dalian, China: IEEE. DOI: 10.1109/icsssm.2017.7996150.（EI）
+[12]檀哲,洪容容,叶少珍.一种提取乳腺癌DCE-MRI感兴趣区域的分割方法[J].福州大学学报(自然科学版),2016,44(01):33-39.（北核）
